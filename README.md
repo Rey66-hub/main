@@ -11,4 +11,4 @@ Team member : Aruleswari Bagavathy
 
 Salesforce : https://veerammalengineeringcollegec9-dev-ed.develop.lightning.force.com/lightning/o/Dashboard/home?queryScope=mru
 
-Demo Vedio Link:https://drive.google.com/file/d/1wga8sm0ycJmm9frPB5pIt0lTvAWlyxuM/view?usp=drivesdk
+Demo Vedio Link:https://drive.google.com/file/d/1fS2wF-Qca3QSPe87g624_I-lvOMbIf7f/view?usp=drivesdk
